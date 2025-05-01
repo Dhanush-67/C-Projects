@@ -1,2 +1,2 @@
-# CS_A48
-C Assignments for CSA48 class
+# C Projects
+Projects I have built using C
