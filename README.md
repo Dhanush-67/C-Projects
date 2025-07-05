@@ -1,2 +1,2 @@
 # C Projects
-Projects I have built using C
+Projects I have worked on using C in my university courses
